@@ -1,4 +1,4 @@
-# Use RNN to pick up a name for baby/用RNN给小baby起个名字
+# Pick up a name for baby by using RNN/用RNN给小baby起个名字
 北邮机器学习2020春
 
 ## 任务定义
